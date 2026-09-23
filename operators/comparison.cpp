@@ -38,6 +38,5 @@ int main() {
     cout << (passwordLength >= 8) << "\n";
     cout << (passwordLength < 8) << "\n";
 
-
     return 0;
 }
