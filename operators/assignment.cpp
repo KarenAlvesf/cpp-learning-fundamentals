@@ -49,10 +49,6 @@ int main() {
 
     cout << "Total savings: " << savings;
 
-
-
-
-
-    
+    return 0;
 
 }
